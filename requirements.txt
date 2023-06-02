@@ -1,5 +1,6 @@
-opencv-contrib-python
-tqdm
-numpy
-opencv-python
-onnxruntime
+Se necesitará la instalación de los siguientes módulos para el funcionamiento de la práctica:
+-poopencv-contrib-python
+-tqdm
+-numpy
+-opencv-python
+-onnxruntime
